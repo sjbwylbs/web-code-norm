@@ -1,11 +1,13 @@
 module.exports = {
-    title: '前端代码规范',
+    title: '前端编码规范',
     themeConfig: {
         logo: '/logo1.png',
         // 侧边栏数组
         // 所有页面会使用相同的侧边栏
         sidebar: [
           'javascript.md',
+          'html.md',
+          'css.md',
           'react.md',
           'namingRule.md',
           'commitRule.md'

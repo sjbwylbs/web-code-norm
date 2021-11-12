@@ -1,5 +1,5 @@
 ---
-title: React/JSX 风格指南
+title: React/JSX 编码规范
 ---
 
 
